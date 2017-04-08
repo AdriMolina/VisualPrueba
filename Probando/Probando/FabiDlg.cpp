@@ -3,6 +3,7 @@
 
 void FabiDlg::Window_Open(Win::Event& e)
 {
+
 }
 
 
