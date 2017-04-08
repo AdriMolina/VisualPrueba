@@ -7,3 +7,7 @@ void AdiiDlg::Window_Open(Win::Event& e)
 
 
 
+void AdiiDlg::btBoton_Click(Win::Event& e)
+{
+}
+
